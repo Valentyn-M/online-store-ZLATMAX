@@ -255,7 +255,7 @@ body._lock {
   padding-bottom: 0%;
 }
 
-[class*=-ibg] > img {
+[class*=-ibg] img {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -275,7 +275,7 @@ body._lock {
   padding-bottom: 0%;
 }
 
-[class*=-bg-contain] > img {
+[class*=-bg-contain] img {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -295,7 +295,7 @@ body._lock {
   padding-bottom: 0%;
 }
 
-[class*=-ibg-fix] > img {
+[class*=-ibg-fix] img {
   position: absolute;
   top: 50%;
   left: 50%;

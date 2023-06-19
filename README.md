@@ -1,2 +1,2 @@
-# site-study-ZLATMAX
+# online-store-ZLATMAX
 Online store

@@ -1,9 +1,24 @@
-Layout of the ZLATMAX online store using custom selects, spoilers and tips.
+# ZLATMAX — Online Store
 
-A multi-level menu was created.
+ZLATMAX is a multi-page online store front-end layout (Home, Catalog, Product pages) with a focus on typical e-commerce UI patterns: a multi-level navigation menu, product cards, interactive filters, and product galleries. The project showcases responsive layout techniques and JavaScript-driven components (sliders, custom selects, tooltips, spoilers/accordions).
 
-The Swiper slider was used.
+## Live Demo
+- Home: https://valentyn-m.github.io/online-store-ZLATMAX/home.html
+- Catalog: https://valentyn-m.github.io/online-store-ZLATMAX/catalog.html
+- Product: https://valentyn-m.github.io/online-store-ZLATMAX/product.html
 
-On the "Catalog" page, noUiSlider (range slider) was used.
+## Key Features
+- Multi-page storefront structure: Home / Catalog / Product pages
+- Multi-level catalog navigation menu
+- Interactive UI components: custom selects, spoilers/accordions, tooltips (tips)
+- Sliders powered by Swiper (hero/sections, product galleries)
+- Catalog range filter powered by noUiSlider (price range)
+- Product page with two linked sliders (main gallery + thumbnails)
+- Responsive layout for desktop/tablet/mobile screens
 
-On the "Product Captochka" page, two related sliders are used.
+## Technologies Used
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Swiper (slider)
+- noUiSlider (range slider for catalog filters)

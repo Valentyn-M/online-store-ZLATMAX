@@ -18,7 +18,7 @@ ZLATMAX is a multi-page online store front-end layout (Home, Catalog, Product pa
 
 ## Technologies Used
 - HTML5
-- CSS3
+- SCSS
 - Vanilla JavaScript
 - Swiper (slider)
 - noUiSlider (range slider for catalog filters)
